@@ -6,9 +6,9 @@
 
 Single module for new design of [Lezgo](https://www.lezgo.io) mobile app that will be implemented soon.
 ## Screens:
-<img src="./assets/screenShots/screenOne.png" width="600" height="900">
-<img src="./assets/screenShots/screenTwo.png" width="600" height="900">
-<img src="./assets/screenShots/screenThree.png" width="600" height="900">
+<img src="./assets/screenShots/screenOne.png">
+<img src="./assets/screenShots/screenTwo.png">
+<img src="./assets/screenShots/screenThree.png">
 
 ## Setup Project
 
