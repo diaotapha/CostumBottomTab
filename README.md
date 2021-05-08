@@ -6,7 +6,9 @@
 
 Single module for new design of [Lezgo](https://www.lezgo.io) mobile app that will be implemented soon.
 ## Screens:
-![project Name Screen Shot one][project-screenshot-one] ![project Name Screen Shot two][project-screenshot-two] ![project Name Screen Shot three ][project-screenshot-three]
+<img src="./assets/screenShots/screenOne.png" width="200" height="300">
+<img src="./assets/screenShots/screenTwo.png" width="200" height="300">
+<img src="./assets/screenShots/screenThree.png" width="200" height="300">
 
 ## Setup Project
 
@@ -20,9 +22,5 @@ yarn install
 yarn start
 ```
 
-
-[project-screenshot-one]: ./assets/screenShots/screenOne.png
-[project-screenshot-two]: ./assets/screenShots/screenTwo.png
-[project-screenshot-three]: ./assets/screenShots/screenThree.png
 
 
