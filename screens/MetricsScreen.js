@@ -5,7 +5,7 @@ import Styles from '../styles/costum'
 
 const Metrics = () => {
     return(
-        <View style={[Styles.container, {backgroundColor: "#F64668"}]}>
+        <View style={[Styles.container, {backgroundColor: "#41436A"}]}>
             <TouchableOpacity
                 style={Styles.buttonOne}
                 onPress={ () => alert('Metrics Screen !') }

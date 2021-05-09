@@ -5,7 +5,7 @@ import Styles from '../styles/costum'
 
 const Home = () => {
     return(
-        <View style={[Styles.container, {backgroundColor: "#F64668"}]}>
+        <View style={[Styles.container, {backgroundColor: "#41436A"}]}>
             <TouchableOpacity
                 style={Styles.buttonOne}
                 onPress={ () => alert('Home Screen !') }

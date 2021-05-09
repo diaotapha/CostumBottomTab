@@ -49,11 +49,13 @@ const CostumTabBarButton = ({children , onPress, navigation}) => {
                 // backgroundColor: "transparent"
             },
             container: {
-                height: 470
+                height: 470,
+                borderTopLeftRadius: 30,
+                borderTopRightRadius: 30
             },
             draggableIcon: {
                 backgroundColor: "#6A6A6A",
-                width: 150
+                width: 150,
             }
             }}
             >
